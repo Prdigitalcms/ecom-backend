@@ -15,9 +15,9 @@
   // ⭐ CORS OPTIONS
   const allowedOrigins = [
     "http://localhost:5173",
-    "https://project-1-three-orpin.vercel.app",
-    "https://prdigitalcms.in",
-    "https://www.prdigitalcms.in",
+    "https://ecom-project-rahul.vercel.app/",
+    // "https://prdigitalcms.in",
+    // "https://www.prdigitalcms.in",
   ];
 
   const corsOptions = {
